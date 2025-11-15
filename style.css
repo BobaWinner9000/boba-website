@@ -1,0 +1,10 @@
+img {
+    width: 400px;
+}
+body {
+    text-align: center;
+    font-family: 'sans-serif';
+    background: rgb(188, 229, 255);
+    color: rgba(0, 0, 0, 0.701)
+
+}
