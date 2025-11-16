@@ -1,11 +1,12 @@
 img {
     width: 400px;
+    margin-bottom: 50px;
 }
 body {
     text-align: center;
     font-size: 'large';
     font-family: 'sans-serif';
     background: rgb(100, 229, 255);
-    color: rgba(0, 0, 0, 0.701)
+    color: rgba(0, 0, 0, 0.701);
 
 }
