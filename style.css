@@ -3,8 +3,9 @@ img {
 }
 body {
     text-align: center;
+    font-size: 'large';
     font-family: 'sans-serif';
-    background: rgb(188, 229, 255);
+    background: rgb(100, 229, 255);
     color: rgba(0, 0, 0, 0.701)
 
 }
